@@ -1,0 +1,4 @@
+uat=https://uat.totalwine.com
+qa=https://qa.totalwine.com
+perf=https://perf.totalwine.com
+prod=https://www.totalwine.com
